@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\programacao\c++\meltdown\meltdown\main.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  meltdown.vcxproj -> D:\programacao\c++\meltdown\Debug\meltdown.exe
